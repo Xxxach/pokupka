@@ -1,0 +1,47 @@
+/* .content-section {
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: none; Изначально секции скрыты 
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+} 
+    
+
+
+        <!-- Кнопки переключения -->
+        <button id="show-purchases">Показать покупки</button>
+        <button id="show-sales">Показать продажи</button>
+        <!-- Секции контента -->
+        <section id="purchases" class="content-section hidden">
+            <h2>Список покупок:</h2>
+            <ul>
+                <li>Товар 1</li>
+                <li>Товар 2</li>
+                <li>Товар 3</li>
+            </ul>
+        </section>
+        <section id="sales" class="content-section hidden">
+            <h2>Список продаж:</h2>
+            <ul>
+                <li>Продажа 1</li>
+                <li>Продажа 2</li>
+                <li>Продажа 3</li>
+            </ul>
+        </section> 
+*/
